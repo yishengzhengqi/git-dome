@@ -1,6 +1,4 @@
-ni hao !
-ni hao !
-ni hao !
+ni hao ! branch test
 ni hao !
 ni hao !
 ni hao !
